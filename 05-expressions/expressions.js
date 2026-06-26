@@ -1,6 +1,7 @@
-// 할당은 "문"인데, 값을 가질까(=표현식)?
-let x;
-console.log(x = 10);        // 예측: ?
-
-// if를 변수에 담아보면?
-let y = if (true) { 1 };    // 예측: 되나, 에러나나?
+console.log("05장 표현식과 문 실험");
+console.log("");
+console.log("정상 실행 실험:");
+console.log("- node 05-expressions/assignment-expression.js");
+console.log("");
+console.log("에러 관찰 실험:");
+console.log("- node 05-expressions/statement-error.js");
