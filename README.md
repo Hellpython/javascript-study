@@ -10,20 +10,24 @@
 3. **비교** — 예측이 틀린 지점이 진짜 몰랐던 곳
 
 ## 진행 상황
-- [x] 04 변수
-- [x] 05 표현식과 문
-- [x] 06 데이터 타입
-- [x] 07 연산자
-- [x] 08 제어문
+- [x] 04 변수 - 실험 README 정리
+- [x] 05 표현식과 문 - 실험 README 정리
+- [x] 06 데이터 타입 - 실험 README 정리
+- [x] 07 연산자 - 실험 README 정리
+- [x] 08 제어문 - 실험 README 정리
 - [ ] 09 (다음)
 
 > 1~3장(프로그래밍 / 자바스크립트란? / 개발환경과 실행 방법)은 개념이라 블로그에만 정리.
 
 ## 실행 방법
 ```bash
+node 04-variables/variables.js
+node 05-expressions/expressions.js
 node 06-data-types/data-types.js
+node 07-operators/operators.js
+node 08-control-flow/control-flow.js
 ```
 
 ## 참고
 - 교재: 모던 자바스크립트 Deep Dive
-- 블로그: https://lessontutor.tistory.com/category/JavaScript# javascript-study
+- 블로그: https://lessontutor.tistory.com/category/JavaScript
