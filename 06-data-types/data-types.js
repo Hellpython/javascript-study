@@ -1,4 +1,5 @@
-console.log(typeof null);        // 예측: ?  (유명한 함정)
-console.log(typeof NaN);         // 예측: ?
-console.log(0.1 + 0.2);          // 예측: 0.3 맞을까?
-console.log(0.1 + 0.2 === 0.3);  // 예측: ?
+console.log("06장 데이터 타입 실험");
+console.log("");
+console.log("정상 실행 실험:");
+console.log("- node 06-data-types/typeof-values.js");
+console.log("- node 06-data-types/number-precision.js");
